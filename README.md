@@ -3,9 +3,16 @@
 
 This app isn't deployed online yet, so it has to be hosted locally in your machine.
 > Features:
+> * Create, edit, delete and set reminder to tasks
+> * Pop-up reminders
 > * Child monitoring
 > * Progress tracking
 > * Time-spent tracking
+
+## Screenshots
+![daily-do homepage](https://i.imgur.com/ATyAswN.png)
+![](https://i.imgur.com/gj6CoO6.png)
+![](https://i.imgur.com/lzqtkIQ.png)
 
 ## 1. How to install
 * If you don't already have any local server installed, you can download and install [XAMPP](https://www.apachefriends.org/download.html).
